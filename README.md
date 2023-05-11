@@ -1,6 +1,7 @@
-### bem vindo ao meu perfil  🗿 :trollface:kk
+### bem vindo ao meu perfil 🗿  
 
- - estou estudando no [alura](https://www.alura.com.br)
+
+ - estou estudando no [alura] ( https://www.alura.com.br )
 
 <!--
 **natanaelpinheiro321/natanaelpinheiro321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
+
